@@ -1,0 +1,10 @@
+section.Social-bar {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	background-color: #eeebeb;
+}
+
+section.Social-bar a {
+	margin: 10px;
+}
