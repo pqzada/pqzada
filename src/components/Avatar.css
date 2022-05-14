@@ -1,5 +1,6 @@
 .Avatar {
 	border-radius: 6em;
 	overflow: hidden;
-	border: .3em solid #eeebeb;
+	border: .2em solid #c0c0c0;
+	background-color: #c0c0c0;
 }
